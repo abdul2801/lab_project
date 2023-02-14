@@ -72,10 +72,11 @@ function reveal() {
 window.addEventListener("scroll" , reveal)
 
 
-
 var navbar = document.getElementsByClassName("navbar")[0];
+var sticky = navbar.offsetTop
+
 function myFunction() {
-  if (window.pageYOffset >= navbar.offsetTop) {
+  if (window.pageYOffset >= sticky) {
     navbar.classList.add("sticky")
   } else {
     navbar.classList.remove("sticky");
