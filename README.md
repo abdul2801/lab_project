@@ -19,7 +19,7 @@ No Installation Required
     
 ## Screenshots
 
-![App Screenshot]([https://github.com/abdul2801/lab_project/blob/main/carousal/Screenshot%20from%202023-02-19%2011-55-49.png]))
+![App Screenshot](https://github.com/abdul2801/lab_project/blob/main/carousal/Screenshot%20from%202023-02-19%2011-55-49.png)
 
 
 ## Author
